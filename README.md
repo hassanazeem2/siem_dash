@@ -19,10 +19,6 @@ siem dashboard is a basic security information and event management dashboard bu
 - **python 3.x**
 - **virtual environment (optional but recommended)**
 
-certainly! here's the formatted version of the usage instructions for your siem dashboard project:
-
-```bash
-# siem dashboard usage instructions
 
 ## navigate to the project directory:
 
